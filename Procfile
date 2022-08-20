@@ -1,1 +1,1 @@
-web: unicorn bloodbankmanagement.wsgi
+web: gunicorn bloodbankmanagement.wsgi
